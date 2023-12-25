@@ -21,3 +21,10 @@ Clone the FDM repository to your server using the following command:
 ```bash
 git clone https://github.com/eljakani/FDM.git
 ```
+### Step 2: Execute the script
+
+execute the script and follow the steps
+
+```bash
+./install.sh
+```
